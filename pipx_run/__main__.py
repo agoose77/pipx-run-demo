@@ -29,7 +29,7 @@ def main():
 
     subprocess.run([
         "pipx", "run", "--spec", result.wheel_path, result.script_name, *remainder
-    ])
+    ], check=True)
 
 
 if __name__ == "__main__":
