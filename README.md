@@ -14,6 +14,9 @@ Please don't look at this code, it's horrible ;)
 pip install .
 ```
 
+## Examples
+See the `examples` directory.
+
 ## License
 
 `pipx-run` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
