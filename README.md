@@ -1,6 +1,8 @@
 # pipx-run
 -----
 
+Please don't look at this code, it's horrible ;)
+
 **Table of Contents**
 
 - [Installation](#installation)
